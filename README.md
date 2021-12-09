@@ -9,7 +9,7 @@
 
 ### About me :crocodile: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img src="https://i.imgflip.com/1kpwve.jpg" align='left' width="250" height="210"/> 
+<img src="https://i.imgflip.com/1kpwve.jpg" align='left' width="300"/> 
 
 - 🎓 I am an AI Msc student, with a background in mathematics and Computer Science 
 - 🔍 Focusing on Multimodal Deep Learning, Sensor-Fusion and Autonomous Driving Vehicles
