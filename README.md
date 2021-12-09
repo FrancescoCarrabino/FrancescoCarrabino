@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif"/>
 
-<h2> <iframe src="https://giphy.com/embed/IwAZ6dvvvaTtdI8SD5" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  Welcome to my GitHub! 🚀🚀🚀</h2> 
+<h2> <img src="https://giphy.com/embed/IwAZ6dvvvaTtdI8SD5" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></img>  Welcome to my GitHub! 🚀🚀🚀</h2> 
 
 ### About me :crocodile: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
