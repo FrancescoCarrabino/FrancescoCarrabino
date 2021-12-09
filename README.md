@@ -23,9 +23,9 @@ I am passionate about research, I love coding and getting things done.
 
 <h3> 🛠 &nbsp;My upcoming projects</h3>
 
--  <img src="https://github.com/FrancescoCarrabino/FrancescoCarrabino/blob/main/bus%20MOT.png"/> a tracking, ticket validation, and passenger counting system for public transportation, using OpenCV and YOLO V4. Coming: end of January 2022.
-- <img src="https://github.com/FrancescoCarrabino/FrancescoCarrabino/blob/main/fuzegrad.png"/> a comprehensive framework for multimodal Deep Learning, written in Python, using Pytorch. Coming: end of February 2022.
-- <img src="https://github.com/FrancescoCarrabino/FrancescoCarrabino/blob/main/o'pilot.png"/>  An Efficient Deep Sensor-Fusion Approach for Object Detection in Autonomous Driving Vehicles. Coming: December 2022.
+-  <img src="https://github.com/FrancescoCarrabino/FrancescoCarrabino/blob/main/busmot.png" width="40"/> a tracking, ticket validation, and passenger counting system for public transportation, using OpenCV and YOLO V4. Coming: end of January 2022.
+- <img src="https://github.com/FrancescoCarrabino/FrancescoCarrabino/blob/main/fuzegrad.png" width="40"/> a comprehensive framework for multimodal Deep Learning, written in Python, using Pytorch. Coming: end of February 2022.
+- <img src="https://github.com/FrancescoCarrabino/FrancescoCarrabino/blob/main/o'pilot.png" width="40"/>  An Efficient Deep Sensor-Fusion Approach for Object Detection in Autonomous Driving Vehicles. Coming: December 2022.
  
  <h3> 🛠 &nbsp;Tech Stack</h3>
 
