@@ -1,4 +1,4 @@
-### Hello there 👋 <img src="https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" width="40" height="40" />
+### Hello there 👋 <img src="https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" width="120" height="80" />
 
 <!--
 **FrancescoCarrabino/FrancescoCarrabino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
