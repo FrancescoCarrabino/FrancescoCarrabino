@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <img src="https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif"/>
 
-<h2> <img src="https://c.tenor.com/G01xSEkdm7EAAAAd/the-office-thank-you.gif" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></img>  Welcome to my GitHub! 🚀🚀🚀</h2> 
+<h2> <img src="https://c.tenor.com/G01xSEkdm7EAAAAd/the-office-thank-you.gif" width="80" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></img>  Welcome to my GitHub! 🚀🚀🚀</h2> 
 
 ### About me :crocodile: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img src="https://i.imgflip.com/1kpwve.jpg" align='left' width="200" height="140"/> 
 
-* 🎓 I am an AI Msc student, with a background in mathematics and Computer Science 
-* 🔍 Focusing on Multimodal Deep Learning, Sensor-Fusion 
+- 🎓 I am an AI Msc student, with a background in mathematics and Computer Science 
+- 🔍 Focusing on Multimodal Deep Learning, Sensor-Fusion 
