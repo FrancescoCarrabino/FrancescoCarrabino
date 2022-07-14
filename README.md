@@ -12,10 +12,20 @@
 <img src="https://i.imgflip.com/1kpwve.jpg" align='left' width="300"/> 
 
 - 🎓 I am an AI Msc student, with a background in mathematics and Computer Science 
-- 🔍 Focusing on Multimodal Deep Learning, Sensor-Fusion and Autonomous Driving Vehicles
--  🌱 Currently learning more about Self-Organizing Systems, Swarm Robotics and Deep Reinforcement Learning
--  📍 Currently living in Klagenfurt, Austria, for my Double Degree Programme in Information and Telecommunications Engineering
-- ⚡ Fun fact: I love music, traveling, dogs and reading <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Dostoevskij_1872.jpg" width="60" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+- 🔍 Focusing on Multimodal Object Detection, Visual Transformers, Sensor-Fusion and Autonomous Driving Vehicles
+-  🌱 Currently learning more about Multimodal Visul Transformers, optimization algorithms and deployment for production.
+-  📍 Currently living in Milan, Italy.
+- ⚡ Fun fact: I love music, traveling, dogs, chess and reading <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Dostoevskij_1872.jpg" width="60" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
+I am passionate about research, I love coding and getting things done. 
+
+ <img src="https://c.tenor.com/E4RpH1xX4bgAAAAC/cool-computer.gif" align="center"/>
+
+<h3> 🛠 &nbsp;My upcoming projects</h3>
+
+-  <img src="https://github.com/FrancescoCarrabino/FrancescoCarrabino/blob/main/busmot.png" width="60"/> a tracking, ticket validation, and passenger counting system for public transportation, using OpenCV and Tensorflow. Out 2nd February. 
+- <img src="https://github.com/FrancescoCarrabino/FrancescoCarrabino/blob/main/o'pilot.png" width="60"/>  An Efficient Deep Sensor-Fusion Approach for Object Detection in Autonomous Driving Vehicles. Coming: December 2022.
+ 
 
 I am passionate about research, I love coding and getting things done. 
 
