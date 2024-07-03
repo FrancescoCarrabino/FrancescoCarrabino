@@ -14,7 +14,7 @@
 - 💼 I am currently working for Accenture GenAI department as a Senior ML Engineer.
 - 🎓 Background in CS with specialization in AI.
 - 🔍 Focusing on Multi-Agent systems in Production environments.
-- 🌱 Currently learning Rust 🦀🦀🦀🦀🦀
+- 🌱 Currently learning Rust 🦀🦀🦀🦀🦀 (I use Vim btw)
 - 📍 Currently living in Milan, Italy.
 - ⚡ I love music, traveling, dogs, chess and reading <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Dostoevskij_1872.jpg" width="60" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
